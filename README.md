@@ -41,6 +41,9 @@ dotnet publish .\TrueStretchSwitcher.csproj -c Release -r win-x64 --self-contain
 
 Once the build is complete, run `publish\sWitch.exe`
 
-### License / usage
-Feel free to modify it for your own use. 
-Please don't redistribute or sell the original program or modified versions of it.
+
+## License / usage
+
+sWitch is free to use, modify, and redistribute. You can create and sell your own modified versions, as long as you comply with the MIT License.
+
+See the `LICENSE` file for the full terms.
