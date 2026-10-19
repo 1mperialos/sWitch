@@ -44,6 +44,6 @@ Once the build is complete, run `publish\sWitch.exe`
 
 ## License / usage
 
-sWitch is free to use, modify, and redistribute. You can create and sell your own modified versions, as long as you comply with the MIT License.
+sWitch is free to use, modify, and redistribute. 
 
 See the `LICENSE` file for the full terms.
