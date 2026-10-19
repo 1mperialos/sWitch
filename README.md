@@ -4,7 +4,7 @@ A resolution switcher for Valorant, featuring automatic resolution switching and
 
 Inspired by [QuickRes](https://github.com/lxzydev/QuickRes).  Requested by followers. Made by AI.
 
-### About
+### About/Features
 
 When you're loaded into a match, sWitch automatically switches to your preferred resolution. Once the match ends, it switches back to your native resolution.
 
@@ -13,6 +13,7 @@ There are also two extra situations it can handle:
 - Game crash: If Valorant crashes and closes, sWitch switches back to your native resolution after a few seconds.
 - Internet connection loss: If your internet connection drops, sWitch switches back to your native resolution. Once your connection is restored, it automatically switches again when the match is ready.
 
+- Optional launch on Windows startup.
 
 ### Custom resolutions
 
