@@ -17,6 +17,7 @@ There are also two extra situations it can handle:
 
 You can create custom resolutions directly in sWitch without opening NVIDIA Control Panel.
 sWitch uses NVIDIA NVAPI to calculate the timing, test the mode, and save it if the driver accepts it.
+
 (I'm not sure if this feature works with AMD GPUs as well, so you may need to create custom resolutions through your GPU software instead.)
 
 
@@ -46,4 +47,4 @@ Once the build is complete, run `publish\sWitch.exe`
 
 sWitch is free to use, modify, and redistribute. 
 
-See the `LICENSE` file for the full terms.
+Licensed under the MIT License
