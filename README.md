@@ -13,9 +13,16 @@ There are also two extra situations it can handle:
 - Game crash: If Valorant crashes and closes, sWitch switches back to your native resolution after a few seconds.
 - Internet connection loss: If your internet connection drops, sWitch switches back to your native resolution. Once your connection is restored, it automatically switches again when the match is ready.
 
+
+![sWitch main menu](assets/resolution-settings.png)
+
 - Optional launch on Windows startup.
+- Hotkey
+
 
 ### Custom resolutions
+
+![sWitch main menu](assets/main-menu.png)
 
 You can create custom resolutions directly in sWitch without opening NVIDIA Control Panel.
 sWitch uses NVIDIA NVAPI to calculate the timing, test the mode, and save it if the driver accepts it.
