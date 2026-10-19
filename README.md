@@ -2,6 +2,7 @@
 
 A resolution switcher for Valorant, featuring automatic resolution switching and a customizable hotkey.
 
+Inspired by [QuickRes](https://github.com/lxzydev/QuickRes).  Requested by followers. Made by AI.
 
 ### About
 
