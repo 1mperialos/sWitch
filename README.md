@@ -2,14 +2,23 @@
 
 A resolution switcher for Valorant, featuring automatic resolution switching and a customizable hotkey.
 
+
 ### About
 
-When the match is ready, sWitch automatically switches to your preferred resolution. Once the match ends, it switches back to your native resolution.
+When you're loaded into a match, sWitch automatically switches to your preferred resolution. Once the match ends, it switches back to your native resolution.
 
 There are also two extra situations it can handle:
 
 - Game crash: If Valorant crashes and closes, sWitch switches back to your native resolution after a few seconds.
 - Internet connection loss: If your internet connection drops, sWitch switches back to your native resolution. Once your connection is restored, it automatically switches again when the match is ready.
+
+
+### Custom resolutions
+
+You can create custom resolutions directly in sWitch without opening NVIDIA Control Panel.
+sWitch uses NVIDIA NVAPI to calculate the timing, test the mode, and save it if the driver accepts it.
+(I'm not sure if this feature works with AMD GPUs as well, so you may need to create custom resolutions through your GPU software instead.)
+
 
 ### Downloads
 
@@ -32,3 +41,6 @@ dotnet publish .\TrueStretchSwitcher.csproj -c Release -r win-x64 --self-contain
 
 Once the build is complete, run `publish\sWitch.exe`
 
+### License / usage
+Feel free to modify it for your own use. 
+Please don't redistribute or sell the original program or modified versions of it.
