@@ -6,6 +6,8 @@ Inspired by [QuickRes](https://github.com/lxzydev/QuickRes).  Requested by follo
 
 ### About/Features
 
+(Disable your monitor in Device Manager to get true stretched res)
+
 When you're loaded into a match, sWitch automatically switches to your preferred resolution. Once the match ends, it switches back to your native resolution.
 
 There are also two extra situations it can handle:
